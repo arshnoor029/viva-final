@@ -1,2 +1,7 @@
 ajna aoj ao ao 
-ji ji
+
+
+:wq
+
+hello hello
+
